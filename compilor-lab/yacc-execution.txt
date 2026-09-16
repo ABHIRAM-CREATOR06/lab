@@ -1,0 +1,4 @@
+yacc -d calc.y          # or: bison -d calc.y
+lex calc.l              # or: flex calc.l
+gcc y.tab.c lex.yy.c -o calc -lfl -lm
+./calc
