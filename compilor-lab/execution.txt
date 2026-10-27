@@ -1,3 +1,6 @@
 flex lexical.l
 gcc lex.yy.c -o lexer -lfl
 ./lexer input.c
+
+if not calling file in program
+./program < input.c
