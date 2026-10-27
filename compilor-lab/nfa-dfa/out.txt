@@ -1,0 +1,19 @@
+Enter number of alphabets: 2
+Enter alphabets:
+a b
+
+Enter number of states: 3
+
+Enter start state: 1
+
+Enter number of final states: 1
+Enter final states:
+3
+
+Enter number of transitions: 4
+
+Enter transitions (state alphabet state):
+1 a 1
+1 a 2
+2 b 3
+3 b 3
