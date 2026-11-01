@@ -1,0 +1,22 @@
+# Compiler output
+*.exe
+*.o
+*.obj
+
+# Build files
+Makefile
+*.make
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
